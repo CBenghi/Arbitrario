@@ -9,7 +9,6 @@ Aggiungere un elenco
 3. Terza voce
 4. Ultima voce
 
-Prima riga dopo l'elenco puntato questa parte non cabmbiera' mai, o e concenttualmente unitaria;
+Prima riga dopo l'elenco puntato questa parte non cambiera' mai, o e concettualmente unitaria;
+
 Questo non e' su una riga diversa, una volta convertito in html.
-
-
